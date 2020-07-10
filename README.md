@@ -1,11 +1,9 @@
-<img src="https://github.com/egoist/egoist/raw/master/balloon.gif" width="50">
+
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Saber](https://github.com/saberland/saber) and [SAO](https://github.com/saojs/sao)
-- 🌱 I’m currently learning Rust and Japanese
+- 🔭 I’m currently working on [hd-ui-kit](https://github.com/hd-efe/hd-ui-kit) and [hd-debug-tools](https://github.com/hd-efe/hd-debug-tools)
+- 🌱 I’m currently learning flutter and dart
 - 💬 Ask me about anything
-- 💰 I need [sponsors](https://github.com/sponsors/egoist) to keep my projects maintained
-- 📫 How to reach me: [@_egoistlily](https://twitter.com/_egoistlily)
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: [I watch anime](https://anilist.co/user/KevinTitor)
+- 💰 I need [sponsors](https://github.com/sponsors/maixiaojie) to keep my projects maintained
+- 📫 How to reach me: [@麦晓杰](https://weibo.com/778273234)
