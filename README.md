@@ -2,8 +2,10 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [hd-ui-kit](https://github.com/hd-efe/hd-ui-kit) and [hd-debug-tools](https://github.com/hd-efe/hd-debug-tools)
-- 🌱 I’m currently learning flutter and dart
 - 💬 Ask me about anything
-- 💰 I need [sponsors](https://github.com/sponsors/maixiaojie) to keep my projects maintained
 - 📫 How to reach me: [@麦晓杰](https://weibo.com/778273234)
+
+底层码农、前端工程师
+
+[![maixiaojie github stats](https://github-readme-stats.vercel.app/api?username=maixiaojie&show_icons=true&theme=radical)](https://github.com/maixiaojie)
+[![maixiaojie github stats](https://github-readme-stats.vercel.app/api/top-langs?username=maixiaojie&layout=compact&theme=radical)](https://github.com/maixiaojie)
