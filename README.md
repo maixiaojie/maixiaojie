@@ -9,3 +9,4 @@
 
 [![maixiaojie github stats](https://github-readme-stats.vercel.app/api?username=maixiaojie&show_icons=true&theme=radical)](https://github.com/maixiaojie)
 [![maixiaojie github stats](https://github-readme-stats.vercel.app/api/top-langs?username=maixiaojie&layout=compact&theme=radical)](https://github.com/maixiaojie)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maixiaojie&layout=compact)](https://github.com/maixiaojie)
